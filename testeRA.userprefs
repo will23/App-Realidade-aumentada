@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Vuforia\Scripts\DefaultTrackableEventHandler.cs">
+    <Files>
+      <File FileName="testeRA.sln" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ScriptRA1.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ScriptRA2.js" Line="1" Column="1" />
+      <File FileName="Assets\Vuforia\Scripts\DefaultTrackableEventHandler.cs" Line="97" Column="72" />
+      <File FileName="Assets\Scripts\ScriptRA3.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\canvas_button.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\canvas_button_sair.js" Line="6" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
